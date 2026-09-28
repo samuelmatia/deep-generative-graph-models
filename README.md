@@ -22,7 +22,7 @@ Generate graphs sequentially, one node or edge at a time.
 * **GraphRNN**: Uses recurrent neural networks to generate graphs sequentially.
 
   * <a href="https://arxiv.org/abs/1802.08773"><img src="https://img.shields.io/badge/Paper-PDF-002147?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Paper"></a>
-  * <a href="REPLACE_WITH_GRAPHRNN_REPOSITORY_URL"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Repository"></a>
+  * <a href="https://github.com/samuelmatia/graph-rnn"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Repository"></a>
 
 * **GRAN**: Uses recurrent attention to generate graphs in blocks.
 
