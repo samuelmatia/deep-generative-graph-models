@@ -1,11 +1,13 @@
 # 🧠 Deep Generative Graph Models
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Status-Ongoing-orange?style=flat-square" alt="Ongoing">
   <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
   <img src="https://img.shields.io/badge/Graph%20Generation-6A5ACD?style=flat-square" alt="Graph Generation">
   <img src="https://img.shields.io/badge/license-MIT-2ea44f?style=flat-square" alt="MIT License">
 </p>
+
 
 A collection of simplified implementations of the main deep generative graph architectures. Each model is implemented in a separate repository.
 
